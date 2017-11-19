@@ -1,4 +1,4 @@
-# MovieWARP-SGD, WIP
+# MovieWARP-SGD
 
 This is an implementation of the Weighted Approximate-Rank Pairwise loss and Stochastic Gradient Descent for a movie recommendation
 system as a demonstration for a COMP4121 project.
