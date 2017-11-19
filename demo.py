@@ -207,6 +207,6 @@ if __name__ == "__main__":
 
     #measure_accuracies(trained_model, data)
     #graph_accuracies_epochs(data)
-    graph_accuracies_step_size(data)
+    #graph_accuracies_step_size(data)
     #graph_accuracies_cutoff(data)
     #graph_speeds_epochs(data)
